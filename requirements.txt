@@ -3,5 +3,5 @@ pandas
 joblib
 xgboost
 sklearn
+azureml-core
 azureml-automl-runtime
-dataclasses
