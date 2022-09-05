@@ -4,3 +4,4 @@ joblib
 xgboost
 sklearn
 azureml
+azureml-automl-runtime
