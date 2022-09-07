@@ -4,4 +4,4 @@ joblib
 xgboost
 sklearn
 azureml-automl-runtime
-dataclasses==0.8
+dataclasses==0.7
